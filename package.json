@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "bitcoind-rpc": "^0.7.2",
-    "bitcore-lib-cash": "ZSLP/bitcore-lib-zcash",
+    "bitcore-lib-cash": "ZSLP/bitcore-lib-zcash#38c113838a28230b3d6cee76568f53173709774a",
     "dotenv": "^6.0.0",
     "fountainhead-bcode": "0.0.6",
     "fountainhead-bigjq": "0.0.13",
-    "fountainhead-tna": "ZSLP/tna",
+    "fountainhead-tna": "ZSLP/tna#843b5e8bd83233b122fc9468cd1028f5a496dfde",
     "iconv-lite": "^0.4.24",
     "ip": "^1.1.5",
     "level": "^4.0.0",
